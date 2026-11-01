@@ -27,4 +27,12 @@ Python, SQL (SQLite), pandas, matplotlib, Google Colab
 - The estimate covers only 8 items from the top-15 list.
 
 ## Charts
-(Add funnel_chart.png, hourly_chart.png and product_leaks_chart.png here.)
+
+### 1. Shopper funnel
+![Funnel chart](funnel_chart.png)
+
+### 2. Store traffic and buying by hour (UTC)
+![Hourly chart](hourly_chart.png)
+
+### 3. Products with the most abandoned carts
+![Product leaks chart](product_leaks_chart.png)
